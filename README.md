@@ -3,3 +3,5 @@ Style transfer is a fun <b>artistic</b> application of CNNs using which various 
 
 Style transfer is an application of transfer learning where you have a <b>content image</b> and a <b>style image</b> and the objective is to transfer the style from the style image to the content image.
 The objective is to transfer the <b>style</b> from the style image and render that style into the content image. The <b>style</b> from the style image is transferred to the content image to produce the <b>candidate image</b>.
+
+For More Details: Please click on the link - <a href="https://arxiv.org/pdf/1508.06576.pdf">A Neural Algorithm of Artistic Style</a>
